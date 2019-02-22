@@ -1,2 +1,2 @@
-print("Coucou !")
+print("Coucou")
 return 0
