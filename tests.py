@@ -1,2 +1,2 @@
-assert False
+assert True
 print("Coucou")
