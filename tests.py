@@ -1,4 +1,3 @@
-assert True
 print("Coucou !") 
 
 def hello_world():
