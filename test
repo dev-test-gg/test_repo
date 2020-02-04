@@ -1,2 +1,10 @@
 gitguardian.com
 gitguardian.ovh
+
+
+AWS key leak
+client_id=AROAP69RDWH5B986L29D\nclient_secret=gSRbZrN3et8GY5fbhIxzK3kYltBIITnA/mliPlLk
+
+Domain in patch/context
+gitguardian.com
+gitguardian.ovh
