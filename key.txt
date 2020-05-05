@@ -1,3 +1,4 @@
-my_key = "sk_live_epISKKKbdeXov5frfeadXXXX" 
+mykey = "sk_live_epISKKKbdeXov5frfeadXXXX" 
+my_key = "sk_live_epISKKKbdeXov5frfuadXXXX" 
 api_key = "XXXX"
 sg_key = "YYYYYY"
